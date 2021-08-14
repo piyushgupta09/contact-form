@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::group(['namespace' => 'Cobiz\Contact\App\Http\Controllers'], function () {
+Route::group(['namespace' => 'Cobiz\Contact\Http\Controllers'], function () {
     Route::resource('contact', ContactController::class);
 });

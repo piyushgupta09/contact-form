@@ -1,10 +1,10 @@
 <?php
 
-namespace Cobiz\Contact\App\Mail;
+namespace Cobiz\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
-use Cobiz\Contact\App\Models\Contact;
+use Cobiz\Contact\Models\Contact;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Contracts\Queue\ShouldQueue;
 

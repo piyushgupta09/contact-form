@@ -1,11 +1,11 @@
 <?php
 
-namespace Cobiz\Contact\App\Http\Controllers;
+namespace Cobiz\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Cobiz\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;
-use Cobiz\Contact\App\Models\Contact;
 use Cobiz\Contact\App\Mail\ContactMailable;
 
 class ContactController extends Controller

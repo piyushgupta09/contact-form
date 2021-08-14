@@ -1,6 +1,6 @@
 <?php
 
-namespace Cobiz\Contact\App\Models;
+namespace Cobiz\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
