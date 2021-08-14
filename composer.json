@@ -1,0 +1,21 @@
+{
+    "name": "cobiz/contact",
+    "description": "Enable user to enter details that is saved in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Piyush Gupta",
+            "email": "pg.softcode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Cobiz\\Contact\\":"src/"
+        }
+    }
+}
