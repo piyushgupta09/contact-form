@@ -1,5 +1,5 @@
 {
-    "name": "cobiz/contact",
+    "name": "cobiz/contact-form",
     "description": "Enable user to enter details that is saved in database",
     "type": "library",
     "license": "MIT",
