@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Cobiz\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;
-use Cobiz\Contact\App\Mail\ContactMailable;
+use Cobiz\Contact\Mail\ContactMailable;
 
 class ContactController extends Controller
 {
